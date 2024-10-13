@@ -1,0 +1,32 @@
+@import url('style.css');
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: start;
+  width: 280px;
+  height: 300px;
+  padding: 40px;
+}
+
+ img{
+  height: 70px;
+}
+
+.titulo {
+ width: 330px;
+
+}
+
+button{
+  width: 290px;
+}
+.paragrafo {
+ width: 290px;
+}
+
+h1{
+  color: hsl(235, 18%, 26%) ;
+
+}
